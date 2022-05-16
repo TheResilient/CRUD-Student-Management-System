@@ -1,0 +1,5 @@
+package com.ft.sms.repository;
+
+public interface StudentRepository {
+
+}

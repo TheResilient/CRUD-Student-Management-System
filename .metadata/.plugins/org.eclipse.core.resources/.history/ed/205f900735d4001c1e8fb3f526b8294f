@@ -1,0 +1,5 @@
+package com.ft.sms.controller;
+
+public class StudentController {
+
+}

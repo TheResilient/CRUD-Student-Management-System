@@ -1,0 +1,13 @@
+package com.ft.sms.service;
+
+import java.util.List;
+
+import com.ft.sms.entity.Student;
+
+public interface StudentService {
+	List<Student> getAllStudents();
+	Student getStudentById(Long id);
+	Student updateStudent(Student student);
+	Student saveStudent(Student student);
+	
+}

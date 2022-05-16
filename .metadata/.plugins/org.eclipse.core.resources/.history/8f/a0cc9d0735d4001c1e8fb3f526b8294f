@@ -1,0 +1,5 @@
+package com.ft.sms.service.impl;
+
+public class StudentServiceImpl {
+
+}
